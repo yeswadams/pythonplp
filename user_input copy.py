@@ -20,5 +20,4 @@ while True:
 #Personalized Message
 message = f"Hello {name}, you are {age} years old and live in {location}."
 
-#Output
 print(message)
